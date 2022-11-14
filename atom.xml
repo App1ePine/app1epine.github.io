@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="cn">
+    <title type="text">风离小记</title>
+    <subtitle type="html">一个奇怪的、摆烂的、无趣的、自闭的、社恐的男孩的小站</subtitle>
+    <updated>2022-11-14T17:55:20&#43;08:00</updated>
+    <id>https://blog.applepine.cn/</id>
+    <link rel="alternate" type="text/html" href="https://blog.applepine.cn/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://blog.applepine.cn/atom.xml" />
+    <author>
+            <name>ApplePine</name>
+            <uri>https://blog.applepine.cn/</uri>
+            
+                <email>administrator@applepine.cn</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.105.0">Hugo</generator>
+        <entry>
+            <title type="text">Drwwnn</title>
+            <link rel="alternate" type="text/html" href="https://blog.applepine.cn/posts/drwwnn/" />
+            <id>https://blog.applepine.cn/posts/drwwnn/</id>
+            <updated>2022-11-14T17:48:01&#43;08:00</updated>
+            <published>2022-11-14T17:43:08&#43;08:00</published>
+            <author>
+                    <name>ApplePine</name>
+                    <uri>https://blog.applepine.cn/</uri>
+                    <email>administrator@applepine.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">点燃我温暖你</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://blog.applepine.cn/categories/videos/" term="videos" label="videos" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://blog.applepine.cn/tags/%E7%82%B9%E7%87%83%E6%88%91%E6%B8%A9%E6%9A%96%E4%BD%A0/" term="点燃我温暖你" label="点燃我温暖你" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">M3u8_downloader</title>
+            <link rel="alternate" type="text/html" href="https://blog.applepine.cn/posts/m3u8_downloader/" />
+            <id>https://blog.applepine.cn/posts/m3u8_downloader/</id>
+            <updated>2022-11-10T15:40:26&#43;08:00</updated>
+            <published>2022-11-07T19:35:07&#43;08:00</published>
+            <author>
+                    <name>ApplePine</name>
+                    <uri>https://blog.applepine.cn/</uri>
+                    <email>administrator@applepine.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Record the process of programming the m3u8 downloader</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://blog.applepine.cn/categories/tech/" term="tech" label="tech" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://blog.applepine.cn/tags/m3u8/" term="m3u8" label="m3u8" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://blog.applepine.cn/tags/nodejs/" term="nodejs" label="nodejs" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Caddy_experience</title>
+            <link rel="alternate" type="text/html" href="https://blog.applepine.cn/posts/caddy_experience/" />
+            <id>https://blog.applepine.cn/posts/caddy_experience/</id>
+            <updated>2022-11-07T20:00:54&#43;08:00</updated>
+            <published>2022-10-26T12:57:04&#43;08:00</published>
+            <author>
+                    <name>ApplePine</name>
+                    <uri>https://blog.applepine.cn/</uri>
+                    <email>administrator@applepine.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Record the first experience of caddy</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://blog.applepine.cn/categories/tech/" term="tech" label="tech" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://blog.applepine.cn/tags/caddy/" term="caddy" label="caddy" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">Hello_world</title>
+            <link rel="alternate" type="text/html" href="https://blog.applepine.cn/posts/hello_world/" />
+            <id>https://blog.applepine.cn/posts/hello_world/</id>
+            <updated>2022-11-10T15:32:15&#43;08:00</updated>
+            <published>2022-10-25T15:09:36&#43;08:00</published>
+            <author>
+                    <name>ApplePine</name>
+                    <uri>https://blog.applepine.cn/</uri>
+                    <email>administrator@applepine.cn</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Just record some Markdown formats</summary>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://blog.applepine.cn/categories/hello_world/" term="hello_world" label="hello_world" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://blog.applepine.cn/tags/hello_world/" term="hello_world" label="hello_world" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>

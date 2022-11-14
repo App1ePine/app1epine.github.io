@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>风离小记</title>
+        <link>https://blog.applepine.cn/</link>
+        <description>一个奇怪的、摆烂的、无趣的、自闭的、社恐的男孩的小站</description>
+        <generator>Hugo 0.105.0 https://gohugo.io/</generator>
+        
+            <language>cn</language>
+        
+        
+            <managingEditor>administrator@applepine.cn (ApplePine)</managingEditor>
+        
+        
+            <webMaster>administrator@applepine.cn (ApplePine)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Mon, 14 Nov 2022 17:55:20 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://blog.applepine.cn/rss.xml" />
+        
+        
+            <item>
+                <title>Drwwnn</title>
+                <link>https://blog.applepine.cn/posts/drwwnn/</link>
+                <guid isPermaLink="true">https://blog.applepine.cn/posts/drwwnn/</guid>
+                <pubDate>Mon, 14 Nov 2022 17:43:08 &#43;0800</pubDate>
+                
+                    <author>administrator@applepine.cn (ApplePine)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>点燃我温暖你</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://blog.applepine.cn/categories/videos/">videos</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://blog.applepine.cn/tags/%E7%82%B9%E7%87%83%E6%88%91%E6%B8%A9%E6%9A%96%E4%BD%A0/">点燃我温暖你</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>M3u8_downloader</title>
+                <link>https://blog.applepine.cn/posts/m3u8_downloader/</link>
+                <guid isPermaLink="true">https://blog.applepine.cn/posts/m3u8_downloader/</guid>
+                <pubDate>Mon, 07 Nov 2022 19:35:07 &#43;0800</pubDate>
+                
+                    <author>administrator@applepine.cn (ApplePine)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Record the process of programming the m3u8 downloader</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://blog.applepine.cn/categories/tech/">tech</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://blog.applepine.cn/tags/m3u8/">m3u8</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://blog.applepine.cn/tags/nodejs/">nodejs</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Caddy_experience</title>
+                <link>https://blog.applepine.cn/posts/caddy_experience/</link>
+                <guid isPermaLink="true">https://blog.applepine.cn/posts/caddy_experience/</guid>
+                <pubDate>Wed, 26 Oct 2022 12:57:04 &#43;0800</pubDate>
+                
+                    <author>administrator@applepine.cn (ApplePine)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Record the first experience of caddy</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://blog.applepine.cn/categories/tech/">tech</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://blog.applepine.cn/tags/caddy/">caddy</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>Hello_world</title>
+                <link>https://blog.applepine.cn/posts/hello_world/</link>
+                <guid isPermaLink="true">https://blog.applepine.cn/posts/hello_world/</guid>
+                <pubDate>Tue, 25 Oct 2022 15:09:36 &#43;0800</pubDate>
+                
+                    <author>administrator@applepine.cn (ApplePine)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                <description>Just record some Markdown formats</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://blog.applepine.cn/categories/hello_world/">hello_world</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://blog.applepine.cn/tags/hello_world/">hello_world</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
